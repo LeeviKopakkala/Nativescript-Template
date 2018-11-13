@@ -1,0 +1,44 @@
+<ActionBar class="action-bar">
+    <!-- 
+    Use the NavigationButton as a side-drawer button in Android
+    because ActionItems are shown on the right side of the ActionBar
+    -->
+    <NavigationButton ios:visibility="collapsed" icon="res://menu" (tap)="onDrawerButtonTap()"></NavigationButton>
+    <!-- 
+    Use the ActionItem for IOS with position set to left. Using the
+    NavigationButton as a side-drawer button in iOS is not possible,
+    because its function is to always navigate back in the application.
+    -->
+    <ActionItem icon="res://navigation/menu" android:visibility="collapsed" (tap)="onDrawerButtonTap()"
+        ios.position="left">
+    </ActionItem>
+    <Label class="action-bar-title" text="Home"></Label>
+</ActionBar>
+
+<TabView id="main-tab-view" class="fas tab-view" (selectedIndexChanged)="onSelectedIndexChanged($event)" selectedTabTextColor="#E5536F" androidTabsPosition="bottom">
+
+
+    <GridLayout class="home-view" rows="auto, *" class="tab-item" *tabItem="{title: 'First'}">
+        <StackLayout row="0">
+                <Label class="info-label" text="First page"></Label>
+        </StackLayout>      
+    </GridLayout>
+
+    <!--<StackLayout class="tab-item" *tabItem="{title: '&#xf015;'}">
+            <Label text="Home"></Label>
+    </StackLayout>-->
+
+    <GridLayout class="home-view" rows="auto, *" class="tab-item" *tabItem="{title: 'Home'}"> <!--row = "30" refers to the first row (row "0") and its height. row = "*" refers to the scond row, and the "*" means to take up the space not used by the other rows. row="80" refers to the third row, at the bottom, and its height -->
+        <StackLayout row="1">
+                <Label class="info-label" text="Home page"></Label>
+        </StackLayout>         
+    </GridLayout>
+
+    <!--<StackLayout class="tab-item" *tabItem="{title: '&#xf0f3;'}">
+            <Label text="Notifications"></Label>
+    </StackLayout>-->
+    <StackLayout class="tab-item" *tabItem="{title: 'Third'}">
+    </StackLayout>
+
+
+</TabView>
