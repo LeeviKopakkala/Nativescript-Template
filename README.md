@@ -36,9 +36,9 @@ References to individual plugins:
 
 ### Run:
 
-1. `git clone https://github.com/LeeviKopakkala/movie-app-Nativescript/`
+1. `git clone https://github.com/LeeviKopakkala/Nativescript-Template`
 
-2. `cd movie-app-Nativescript`
+2. `cd Nativescript-Template`
 
 3. `tns device android --available-devices` OR `tns device ios --available-devices`
 
