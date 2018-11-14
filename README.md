@@ -11,6 +11,11 @@
 
 # NativeScript-Angular with Sidedrawer and TabView
 
+## Overview
+
+We all know the slow process of setting up the project and creating functioning base before being able to add features.
+With this template you get full functioning application out of the box with Sidedrawer and Tabview.
+
 Nativescript Template composed of Nativescript Sidedrawer and Tabview components:
 
 References to individual plugins:
