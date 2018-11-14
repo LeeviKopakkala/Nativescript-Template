@@ -22,7 +22,7 @@ Using the best practices, you get to develop your first real mobile application 
 
 Nativescript Template composed of Nativescript Sidedrawer and Tabview components:
 
-References to individual plugins:
+References to individual plugins used in this template:
 * https://market.nativescript.org/plugins/tns-template-drawer-navigation-ng
 * https://market.nativescript.org/plugins/tns-template-blank-ng
 * https://market.nativescript.org/plugins/tns-template-tab-navigation-ng
