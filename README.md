@@ -16,6 +16,10 @@
 We all know the slow process of setting up the project and creating functioning base before being able to add features.
 With this template you get full functioning application out of the box with Sidedrawer and Tabview.
 
+> Perfect for beginners:
+
+Using the best practices, you get to develop your first real mobile application in no-time.
+
 Nativescript Template composed of Nativescript Sidedrawer and Tabview components:
 
 References to individual plugins:
