@@ -8,7 +8,7 @@
  <img height="125px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NativeScript_logo.png/220px-NativeScript_logo.png">
 </p>
 
-
+<a align="center" href="https://leevikopakkala.github.io/Nativescript-Template/">https://leevikopakkala.github.io/Nativescript-Template/</a>
 # NativeScript-Angular with Sidedrawer and TabView
 
 ## Overview
