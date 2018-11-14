@@ -27,7 +27,16 @@ References to individual plugins used in this template:
 * https://market.nativescript.org/plugins/tns-template-blank-ng
 * https://market.nativescript.org/plugins/tns-template-tab-navigation-ng
 
+<p align="center">
+ <img height="400px" src="https://raw.githubusercontent.com/NativeScript/template-drawer-navigation-ng/HEAD/tools/assets/phone-drawer-ios.png">
+ </p>
+
+
 ## Installation:
+
+<p align="center">
+  <img height="500" src="https://media.discordapp.net/attachments/499833921513586688/512377387296489497/unknown.png?width=1130&height=677">
+</p>
 
 ### Quick:
 
