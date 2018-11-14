@@ -1,7 +1,5 @@
  <img height="100px" src="https://www.azoft.com/wp-content/uploads/2017/10/nativescript@3x.png"/>
 
-
-
 <p align="center">
   <img height="125px" src="https://angular.io/assets/images/logos/angular/angular.png">
  <img height="400px" src="https://d2odgkulk9w7if.cloudfront.net/images/default-source/home/header-graphic-hp-min.png?sfvrsn=31b70efe_6">
@@ -16,9 +14,9 @@
 We all know the slow process of setting up the project and creating functioning base before being able to add features.
 With this template you get fully functioning application out of the box with Sidedrawer and Tabview.
 
-> Perfect for beginners:
+> Perfect for beginners and professionals alike.
 
-Using the best practices, you get to develop your first real mobile application in no-time.
+Using the best practices, develop your first real mobile application in no-time.
 
 Nativescript Template composed of Nativescript Sidedrawer and Tabview components:
 
