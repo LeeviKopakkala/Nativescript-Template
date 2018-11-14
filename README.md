@@ -1,7 +1,5 @@
-<p align="center>
-          <img height="125px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NativeScript_logo.png/220px-NativeScript_logo.png">                                                                                                                     <img height="125px" src="https://changelog.com/uploads/logos/Gd6/dark_logo_small.png?v=63703566064">
-          
-</p>
+ <img height="100px" src="https://www.azoft.com/wp-content/uploads/2017/10/nativescript@3x.png"/>
+
 
 
 <p align="center">
