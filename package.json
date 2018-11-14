@@ -1,5 +1,18 @@
 {
   "nativescript": {
+    "platforms": {
+      "android": "1.0.0",
+      "ios": "1.0.0"
+    },
+    "plugin": {
+      "nan": "true",
+      "pan": "true",
+      "core3": "true",
+      "vue": "false",
+      "webpack": "false",
+      "category": "Templates",
+      "wrapper" : ""
+    },
     "id": "org.nativescript.SideDrawer",
     "tns-android": {
       "version": "4.2.0"
