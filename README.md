@@ -1,4 +1,18 @@
+<p align="center">
+  <img height="125px" src="https://angular.io/assets/images/logos/angular/angular.png">
+ <img height="400px" src="https://d2odgkulk9w7if.cloudfront.net/images/default-source/home/header-graphic-hp-min.png?sfvrsn=31b70efe_6">
+ <img height="125px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NativeScript_logo.png/220px-NativeScript_logo.png">
+</p>
+
+
 # NativeScript-Angular with Sidedrawer and TabView
+
+Nativescript Template composed of Nativescript Sidedrawer and Tabview components:
+
+References to individual plugins:
+* https://market.nativescript.org/plugins/tns-template-drawer-navigation-ng
+* https://market.nativescript.org/plugins/tns-template-blank-ng
+* https://market.nativescript.org/plugins/tns-template-tab-navigation-ng
 
 ## Installation:
 
