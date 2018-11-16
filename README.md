@@ -9,6 +9,8 @@
 <a align="center" href="https://leevikopakkala.github.io/Nativescript-Template/">https://leevikopakkala.github.io/Nativescript-Template/</a>
 # NativeScript-Angular with Sidedrawer and TabView
 
+This is the ultimate template with improved structure to help you launch your first app or customer project in no-time.
+
 ## Overview
 
 We all know the slow process of setting up the project and creating functioning base before being able to add features.
